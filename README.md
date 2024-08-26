@@ -1,4 +1,5 @@
 # Hệ Thống Quản Lý Tài Liệu Hướng Dẫn - Odoo
+## LINK TRUY CẬP https://dev02.t4tek.tk/
 
 ## Giới thiệu
 
